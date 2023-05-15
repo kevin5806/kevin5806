@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin5806&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin5806&show_icons=true&theme=github_dark_dimmed)
 
 - 👋 Hi, I’m @kevin5806
 - 👀 I’m interested in IT
