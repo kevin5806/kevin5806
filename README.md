@@ -1,3 +1,5 @@
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin5806&show_icons=true)
+
 - 👋 Hi, I’m @kevin5806
 - 👀 I’m interested in IT
 - 🌱 I’m currently learning HTML, JS, CSS, NodeJS, ThreeJS, ejs, React
