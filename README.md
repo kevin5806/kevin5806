@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @kevin5806
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning HTML, JS, CSS, NodeJS, ThreeJS, ejs, React
+- 🌱 I’m currently learning nextjs, react
 - 💞️ I’m looking to collaborate on kevinserv
 - 📫 How to reach me kevinservdb@gmail.com
 
